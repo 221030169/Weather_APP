@@ -1,0 +1,2 @@
+url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={self.api_key}&units=metric"
+ self.api_key = "b330ba9274582c195c94173ad084cc2a"
